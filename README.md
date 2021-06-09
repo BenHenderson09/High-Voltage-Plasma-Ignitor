@@ -1,0 +1,14 @@
+# High-Voltage-Plasma-Ignitor
+Driving a step-up transformer at a high frequency to produce high temperature continuous plasma arcs.
+
+## How does it work?
+The battery of the tool provides 18v (nominal) to the circuit.
+This is reduced using a step down converter to ~14v to prevent
+excessive power damaging the step-up transformer.
+
+The driver of the transformer and a piezo buzzer receive ~14v when the switch
+is pressed. High temperature plasma arcs ~11m long are then observed on the 
+secondary of the transformer.
+
+The driver uses a 555 timer configured to produce high frequency waves to an
+N channel MOSFET on the primary of the transformer.
