@@ -2,7 +2,7 @@
 Driving a step-up transformer at a high frequency to produce high temperature continuous plasma arcs.
 A broken cordless impact driver was repurposed to act as an enclosure.
 
-<img src="image1.jpg" width="250"><img src="image3.png" width="250">
+<img src="image1.jpg" width="400"><img src="image3.png" width="400">
 
 ## How does it work?
 The battery of the tool provides 18v (nominal) to the circuit.
