@@ -1,5 +1,11 @@
-# High-Voltage-Plasma-Ignitor
-Driving a step-up transformer at a high frequency to produce high temperature continuous plasma arcs.
+# High-Voltage-Tool
+A tool containing a circuit which drives a step-up transformer at a high frequency in order
+to produce high voltage, high temperature continuous plasma arcs, acting as
+an effective ignitor.
+
+An arrangement of high voltage capacitors and diodes on the secondary allows
+for louder,pulsating, higher current arcs.
+
 A broken cordless impact driver was repurposed to act as an enclosure.
 
 <img src="image1.jpg" width="400"><img src="image3.png" width="400">
